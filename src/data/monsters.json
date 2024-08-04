@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Godzilla",
+        "description": "A giant lizard monster that emerges from the ocean.",
+        "movies": ["Godzilla (1954)", "Godzilla vs. Kong (2021)"]
+    },
+    {
+        "name": "King Kong",
+        "description": "A giant ape that resides on Skull Island.",
+        "movies": ["King Kong (1933)", "King Kong (2005)"]
+    },
+    {
+        "name": "Mothra",
+        "description": "A giant moth that often protects Earth.",
+        "movies": ["Mothra (1961)", "Godzilla: King of the Monsters (2019)"]
+    },
+    {
+        "name": "Dracula",
+        "description": "A vampire lord with immense powers.",
+        "movies": ["Dracula (1931)", "Dracula Untold (2014)"]
+    },
+    {
+        "name": "Frankenstein's Monster",
+        "description": "A creature created by Dr. Frankenstein from various body parts.",
+        "movies": ["Frankenstein (1931)", "Victor Frankenstein (2015)"]
+    }
+]
